@@ -1,0 +1,1 @@
+This is a random text to learn the functionality of hello_world.txt
